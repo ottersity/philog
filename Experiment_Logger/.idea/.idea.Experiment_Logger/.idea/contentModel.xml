@@ -406,9 +406,7 @@
             <e p="Experiment.cs" t="Include" />
             <e p="ExperimentComponent.cs" t="Include" />
           </e>
-          <e p="SceneSwitcher.cs" t="Include" />
           <e p="Test.cs" t="Include" />
-          <e p="Test2.cs" t="Include" />
         </e>
       </e>
       <e p="Experiment_Logger.sln" t="IncludeFlat" />
